@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -->
 
 ### Language 
-![Static Badge](https://img.shields.io/badge/Python-Python?style=plastic&logo=python&color=34E140)
+![Static Badge](https://img.shields.io/badge/Python-Python?style=plastic&logo=python&color=34E140) ![Static Badge](https://img.shields.io/badge/C-C?style=plastic&logo=c&color=CF34E1)
+
 
 
 

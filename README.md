@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Language 
+https://img.shields.io/badge/Python-Python?style=plastic&logo=python&color=34E140
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanLru&show_icons=true&theme=radical)
